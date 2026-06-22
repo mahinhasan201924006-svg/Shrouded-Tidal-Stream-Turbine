@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite the associated paper."
+title: "Power-Loading Trade-Off Optimization of a Shrouded Tidal Stream Turbine Using Parametric RANS CFD and Physics-Aware Surrogate Modelling"
+authors:
+  - family-names: Moon
+    given-names: Mahin Hasan
+    affiliation: "Military Institute of Science and Technology, Dhaka, Bangladesh"
+abstract: "Reduced-order actuator-disk RANS CFD and a physics-aware surrogate workflow for duct-geometry screening of a shrouded tidal stream turbine, with CFD-verified Pareto power-loading optima."
+keywords:
+  - shrouded tidal turbine
+  - actuator disk
+  - RANS CFD
+  - surrogate modelling
+  - Pareto optimization
+license: MIT
